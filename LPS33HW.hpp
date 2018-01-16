@@ -176,7 +176,7 @@ public:
 		/* Bits THS_P_L: */
 		struct THS_P_L_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -211,7 +211,7 @@ public:
 		/* Bits THS_P_H: */
 		struct THS_P_H_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -246,7 +246,7 @@ public:
 		/* Bits WHO_AM_I: */
 		struct WHO_AM_I_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -683,7 +683,7 @@ public:
 		/* Bits REF_P_XL: */
 		struct REF_P_XL_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -720,7 +720,7 @@ public:
 		/* Bits REF_P_L: */
 		struct REF_P_L_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -757,7 +757,7 @@ public:
 		/* Bits REF_P_H: */
 		struct REF_P_H_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -801,7 +801,7 @@ public:
 		/* Bits RPDS_L: */
 		struct RPDS_L_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -838,7 +838,7 @@ public:
 		/* Bits RPDS_H: */
 		struct RPDS_H_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -1131,7 +1131,7 @@ public:
 		/* Bits PRESS_OUT_XL: */
 		struct PRESS_OUT_XL_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -1168,7 +1168,7 @@ public:
 		/* Bits PRESS_OUT_L: */
 		struct PRESS_OUT_L_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -1206,7 +1206,7 @@ public:
 		/* Bits PRESS_OUT_H: */
 		struct PRESS_OUT_H_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -1245,7 +1245,7 @@ public:
 		/* Bits TEMP_OUT_L: */
 		struct TEMP_OUT_L_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -1284,7 +1284,7 @@ public:
 		/* Bits TEMP_OUT_H: */
 		struct TEMP_OUT_H_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
@@ -1321,7 +1321,7 @@ public:
 		/* Bits LPFP_RES: */
 		struct LPFP_RES_
 		{
-			/* Mode: */
+			/* MODE - */
 			static const uint8_t mask = 0b11111111; // [0,1,2,3,4,5,6,7]
 		};
 	};
